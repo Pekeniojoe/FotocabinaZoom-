@@ -1,0 +1,23 @@
+@import "header";
+@import "aside";
+@import "mainestilos";
+@import "footer";
+
+body{
+    background-color:rgb(255, 255, 255);
+}
+.carrusel{
+    margin-bottom: 10px;
+  }
+  .totem{
+    width: 538px;
+    height: 630px;
+    align-items: center;
+  
+  }
+  .logo{
+    padding: 20px 0;
+  }
+  .navbar{
+    margin: 0;
+  }
